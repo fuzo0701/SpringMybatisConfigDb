@@ -1,0 +1,36 @@
+#api Url
+base_url_holder:http://165.213.107.218:8021
+web_hooks_url:http://165.213.107.166:10100/webhooks
+invitation_url:http://165.213.107.189:10100/invitation-url
+org_url:http://165.213.107.215:8090/orgs
+  #data api Url
+server_url:http://165.213.107.166:10100
+data_hrdn_url:http://165.213.107.166:10100/api/v1
+data_hrdk_url:http://165.213.107.166:10100/api/v1
+  #server_url:http://localhost:8080
+  #data_hrdn_url:http://localhost:8080/api/v1
+  #data_hrdk_url:http://localhost:8080/api/v1
+share_url:http://114.200.62.191:80
+  #기관구분 산업인력공
+gwVersion:1
+gwClientId:85nhepn3886pccak9b69
+  #
+apiKey:c3Cn8Zlf6kE7S6rKMt3xmaVjnIeaDWV51SVGXnB54ypu08XHs/pPo9R3xVoZiXZpwHuUKBsJZsdmp59OKLo1XZIwvNDTV1mkgYxdzSiuIt5qrEV2xKmThvogxOugqAl+RBoK3XzOMsbYj/QmgGMgagEg5jmtbnMY9i+6IaKygkgvU+nY8ZBjQ1YNgan6Ph9U
+  #기관토큰
+accessToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3YWxsZXRfaWQiOiI4YjAxNjAwMC02ZDI0LTRhZDAtOWUyMy1hOGMyZmEwMDk5YjYiLCJpYXQiOjE3MDU2MDAzMjd9.Cq49Nnew6x8I_HH8gnE_Up5gIT2YEpsQzvSRmtszsbU
+  
+  #nft api server
+nft_url:http://165.213.107.187:10100/api/nft
+  
+  #admin-info 관리자용 schema-info 조회시 사
+admin_password:Qmffhrcpdls1!
+admin_username:api_user@hrdkorea.or.kr
+admin_grant_type:password
+admin_url:http://165.213.107.215:8090
+admin_token:a9fb057d-169b-4326-a346-4ab53ee16550
+admin_wallet_org:http://165.213.107.215:8080/admin/orgs
+admin_orgs_url:http://165.213.107.215:8090
+  
+  #badge sdk image path
+image_path:/hrdk_file/badge_data_hrdk_dev/uploads/assertion/
+image_base_path:/hrdk_file/badge_data_hrdk_dev/uploads/badge_class/

@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    name:
+    hikari:
+      driver-class-name:
+      jdbc-url:
+      username:
+      password:
+      connection-timeout: 5000
